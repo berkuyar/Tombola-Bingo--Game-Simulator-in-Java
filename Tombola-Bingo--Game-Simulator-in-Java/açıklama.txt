@@ -1,0 +1,1 @@
+Program çalışıyor ve Bilgiler.txt dosyasını okuyarak oyunu simüle ediyor.
